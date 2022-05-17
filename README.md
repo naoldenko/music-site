@@ -1,2 +1,2 @@
 # music-site
-Music site.
+Music site
