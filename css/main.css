@@ -1,0 +1,81 @@
+body {
+    background-color: white;
+    font-family: "Caveat", cursive;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+    margin-left: 15px;
+  }
+  
+  .song-link {
+    color: black;
+  }
+  
+  .song-link:hover {
+    color: lightcoral;
+    font-size: 55px;
+    font-weight: bold;
+  }
+  
+  #title {
+    margin-top: -10px;
+  }
+  
+  #socials {
+    margin-top: -80px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  img:hover {
+      width: 75px;
+      height: 75px;
+  }
+  
+  #releases {
+    margin-top: -190px;
+  }
+
+  #merch {
+    margin-top: -100px;
+  }
+  
+  #contact {
+    margin-top: -100px;
+  }
+  
+  #ds {
+    margin-top: -135px;
+  }
+  
+  #coming-soon {
+    margin-top: -130px;
+  }
+  
+  #email {
+    margin-top: -130px;
+  }
+
+  .home-link {
+    color: black;
+  }
+  
+  .home-link:hover {
+    color: lightcoral;
+    font-size: 50px;
+    font-weight: bold;
+  }
+
+  .menu-link {
+    color: black;
+  }
+  
+  .menu-link:hover {
+    color: lightcoral;
+    font-size: 75px;
+    font-weight: bold;
+  }
