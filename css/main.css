@@ -16,7 +16,7 @@ body {
   }
   
   .song-link:hover {
-    color: white;
+    color: coral;
     font-size: 55px;
     font-weight: bold;
   }
@@ -73,7 +73,7 @@ body {
   }
   
   .home-link:hover {
-    color: white;
+    color: coral;
     font-size: 50px;
     font-weight: bold;
   }
@@ -83,7 +83,7 @@ body {
   }
   
   .menu-link:hover {
-    color: white;
+    color: coral;
     font-size: 75px;
     font-weight: bold;
   }
